@@ -17,8 +17,16 @@ div {
   padding: 0;
 }
 
+
+* {
+  box-sizing: border-box;
+}
 body {
-  font-family: "Avenir Next", "Hiragino Kaku Gothic ProN W3", sans-serif;
+  margin: 0;
+  font-family: "Hiragino Kaku Gothic ProN";
+}
+a {
+  text-decoration: none;
 }
 
 li {
