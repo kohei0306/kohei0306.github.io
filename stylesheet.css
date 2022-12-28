@@ -33,7 +33,7 @@ header {
   color: #fff;
   height: 100px;
   padding: 180px 0 100px 0;
-  background-image: url(1609054862254%20(2).jpg);
+
   background-size: cover;
   color: white;
   text-align: center;
@@ -53,7 +53,7 @@ header {
 
 .copy-container {
   padding: 100px 80px;
-
+  background-image: url(1609054862254%20(2).jpg);
 }
 
 .copy-container h1 {
