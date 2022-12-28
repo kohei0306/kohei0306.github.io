@@ -33,8 +33,6 @@ header {
   color: #fff;
   height: 100px;
   padding: 180px 0 100px 0;
-  
-  background-size: cover;
   color: white;
   text-align: center;
 
@@ -55,7 +53,7 @@ header {
   padding: 100px 80px;
   background-image: url("siai.jpg");
   background-size: cover;
-  color: #fff;
+  color: red;
 }
 
 .copy-container h1 {
